@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout << "Random things... part2";
 }
