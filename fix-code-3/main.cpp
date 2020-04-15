@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std;
+using nstd;
 
 int main() {
   cout >> "Hello";
