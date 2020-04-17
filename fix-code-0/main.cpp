@@ -3,5 +3,16 @@
 using namespace std;
 
 int main() {
-  cout<<"Hello "; cout <<"World!"; cout << endl;
+  cout << "Hello ";
+  cout << endl;
+  cout << "Hello!";
+  cout << "Hello ";
+  cout << endl;
+  cout << "Hello!";
+  cout << "Hello ";
+  cout << endl;
+  cout << "Hello!";
+  cout << "Hello ";
+  cout << endl;
+  cout << "Hello!";
 }
